@@ -8,5 +8,3 @@ Descriptive data: Cell barcode, charging policy, cycle life
 Per-cycle summary data: Cycle number, discharge capacity, internal resistance, charge time
 
 Data collected within a cycle: Time, temperature, linearly interpolated discharge capacity, linearly interpolated voltage
-
-Load the data from the MathWorks supportfiles site (this is a large dataset, ~1.7GB).
